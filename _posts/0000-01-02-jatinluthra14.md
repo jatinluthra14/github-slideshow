@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+# The more you speak, The lesser you hear.
 Use the left arrow to go back!
